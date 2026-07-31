@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Girlfriend's Day ❤️</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Great+Vibes&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="hearts"></div>
+
+<!-- Hero -->
+
+<section class="hero">
+
+<h1>Happy Girlfriend's Day ❤️</h1>
+
+<h2>To My Beautiful Wifeyyy 🌸</h2>
+
+<p>
+
+Every love story is beautiful...
+
+But ours is my favorite.
+
+</p>
+
+<button id="openBtn">
+
+💌 Open My Heart
+
+</button>
+
+</section>
+
+<!-- Letter -->
+
+<section id="letter" class="hidden">
+
+<div class="letterBox">
+
+<h2>Dear Wifeyyy ❤️</h2>
+
+<p>
+
+Happy Girlfriend's Day, my love.
+
+I know this isn't the biggest gift in the world,
+
+but I wanted to make something with my own hands,
+
+just for you.
+
+<br><br>
+
+Since the day you came into my life,
+
+everything became brighter.
+
+Every smile,
+
+every laugh,
+
+every conversation,
+
+and every little memory with you
+
+has become one of my favorite moments.
+
+<br><br>
+
+You're not just my girlfriend.
+
+You're my happiness.
+
+You're my peace.
+
+You're my favorite notification.
+
+You're the first person I want to tell
+
+when something good happens.
+
+<br><br>
+
+Thank you for always being there.
+
+Thank you for making me feel loved.
+
+Thank you for being YOU.
+
+<br><br>
+
+I hope one day,
+
+we'll look back at this little website
+
+and smile together.
+
+<br><br>
+
+I love you more than words can explain.
+
+Happy Girlfriend's Day,
+
+My Wifeyyy ❤️
+
+</p>
+
+<h3>
+
+Forever Yours,
+
+<br>
+
+Capsyyy ❤️
+
+</h3>
+
+</div>
+
+</section>
+
+<!-- Relationship -->
+
+<section class="timer">
+
+<h2>❤️ Since We Became Us ❤️</h2>
+
+<div id="countdown">
+
+Loading...
+
+</div>
+
+</section>
+
+<!-- Gallery -->
+
+<section class="gallery">
+
+<h2>Your best pics </h2>
+
+<div class="photos">
+
+<img src="https://i.ibb.co.com/35bLsx4z/Screenshot-2026-07-31-183211.png" alt="Wifeyyy">
+
+<img src="https://i.ibb.co.com/d4XP3VVw/Screenshot-2026-07-31-185106.png" alt="cutee babyy">
+
+<img src="https://i.ibb.co.com/Tx2ZdxQV/Screenshot-2026-07-31-210948.png" alt="okay">
+
+</div>
+
+</section>
+
+<!-- Love Cards -->
+
+<section class="reasons">
+
+<h2>Why I Love You ❤️</h2>
+
+<div class="cards">
+
+<div class="card">❤️ Your Smile</div>
+
+<div class="card">🌸 Your Kindness</div>
+
+<div class="card">🥹 The Way You Care</div>
+
+<div class="card">💖 Your Beautiful Heart</div>
+
+<div class="card">✨ Because You're You</div>
+
+<div class="card">🌎 You Make My World Better</div>
+
+</div>
+
+</section>
+
+<!-- Surprise -->
+
+<section class="surprise">
+
+<button id="giftBtn">
+
+🎁 One Last Surprise
+
+</button>
+
+<div id="finalMessage" class="hidden">
+
+<h1>
+
+I Love You Forever ❤️
+
+</h1>
+
+<p>
+
+No matter where life takes us,
+
+I'll always choose you.
+
+Always.
+
+Forever.
+
+🌸❤️
+
+</p>
+
+</div>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
